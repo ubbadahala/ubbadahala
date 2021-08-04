@@ -6,8 +6,8 @@
 - 🔍 You can find me also at [LinkedIn](https://www.linkedin.com/in/ubbadahala/).
 
 ### 👀 I’m interested in front-end web development with current certification:
-- 📜 [Dasar Pemrograman Web](https://www.dicoding.com/certificates/07Z6LN2KYPQR) from [Dicoding 🇮🇩](https://www.dicoding.com) (⭐️4/5 Project Review Rating).
-- 📜 [Membuat Front-End Web untuk Pemula](https://www.dicoding.com/certificates/53XEWNQDVXRN) from [Dicoding 🇮🇩](https://www.dicoding.com) (⭐️5/5 Project Review Rating).
+- 📜 [Dasar Pemrograman Web](https://www.dicoding.com/certificates/07Z6LN2KYPQR) from [Dicoding 🇮🇩](https://www.dicoding.com) (⭐️4/5 Project Review Rate).
+- 📜 [Membuat Front-End Web untuk Pemula](https://www.dicoding.com/certificates/53XEWNQDVXRN) from [Dicoding 🇮🇩](https://www.dicoding.com) (⭐️5/5 Project Review Rate).
 
 <p align="center">
 <a href="https://github.com/ubbadahala">
