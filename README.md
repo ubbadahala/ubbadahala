@@ -9,7 +9,7 @@
 - 📜 [Dasar Pemrograman Web](https://www.dicoding.com/certificates/07Z6LN2KYPQR) from [Dicoding Indonesia](https://www.dicoding.com).
 - 📜 [Membuat Front-End Web untuk Pemula](https://www.dicoding.com/certificates/53XEWNQDVXRN) from [Dicoding Indonesia](https://www.dicoding.com).
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/ubbadahala">
   <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ubbadahala&show_icons=true&theme=vision-friendly-gotham&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ubbadahala&layout=compact&langs_count=8&theme=vision-friendly-gotham"/>
