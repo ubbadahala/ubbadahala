@@ -7,7 +7,7 @@
 
 
 ### 🤙 A Brief Introduction of Me
-- 🌱 I’m currently learning in the [PENS, Indonesia](https://www.pens.ac.id) with Power Plant Engineering major.
+- 🌱 I’m currently a B.A.Sc. student with a Power Plant Engineering major at [PENS](https://www.pens.ac.id), Indonesia.
 - 📫 How to reach me is via [my email](mailto:muhammadubbadah@gmail.com?subject=[GitHub]%20Contacted%20from%20README.md).
 - 🔍 You can find me also at [LinkedIn](https://www.linkedin.com/in/ubbadahala/).
 
