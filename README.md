@@ -1,4 +1,4 @@
-# Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+# Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> ![visitors](https://visitor-badge.glitch.me/badge?page_id=ubbadahala.ubbadahala)
 
 ### 🤙 A Brief Introduction of Me
 Hi! My name is Ala'. Thank You for taking the time to view my GitHub Profile 😄 
