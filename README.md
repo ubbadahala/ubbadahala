@@ -7,9 +7,9 @@ Hi! My name is Ala'. Thank You for taking the time to view my GitHub Profile �
 - 🔍 You can find me also at [LinkedIn](https://www.linkedin.com/in/ubbadahala/).
 <br>
 ### 👀 I’m interested in front-end web development with current certification:
-- 📜 [Dasar Pemrograman Web](https://www.dicoding.com/certificates/07Z6LN2KYPQR) from [Dicoding 🇮🇩](https://www.dicoding.com) (⭐️4/5 Project Review Rate).
-- 📜 [Membuat Front-End Web untuk Pemula](https://www.dicoding.com/certificates/53XEWNQDVXRN) from [Dicoding 🇮🇩](https://www.dicoding.com) (⭐️5/5 Project Review Rate).
-- 📜 [Fundamental Front-End Web Development](https://www.dicoding.com/certificates/2VX32REO4PYQ) from [Dicoding 🇮🇩](https://www.dicoding.com) (⭐️5/5 Project Review Rate).
+<br>- 📜 [Dasar Pemrograman Web](https://www.dicoding.com/certificates/07Z6LN2KYPQR) from [Dicoding 🇮🇩](https://www.dicoding.com) (⭐️4/5 Project Review Rate).
+<br>- 📜 [Membuat Front-End Web untuk Pemula](https://www.dicoding.com/certificates/53XEWNQDVXRN) from [Dicoding 🇮🇩](https://www.dicoding.com) (⭐️5/5 Project Review Rate).
+<br>- 📜 [Fundamental Front-End Web Development](https://www.dicoding.com/certificates/2VX32REO4PYQ) from [Dicoding 🇮🇩](https://www.dicoding.com) (⭐️5/5 Project Review Rate).
 <br>
 ### Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 <a href="https://github.com/anuraghazra/github-readme-stats">
