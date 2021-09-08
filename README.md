@@ -9,9 +9,9 @@ Hi! My name is Ala'. Thank You for taking the time to view my GitHub Profile �
 <br>
 
 ### 👀 I’m interested in front-end web development with current certification:
-- 📜 [Dasar Pemrograman Web](https://www.dicoding.com/certificates/07Z6LN2KYPQR) from [Dicoding 🇮🇩](https://www.dicoding.com) (⭐️4/5 Project Review Rate).
-- 📜 [Membuat Front-End Web untuk Pemula](https://www.dicoding.com/certificates/53XEWNQDVXRN) from [Dicoding 🇮🇩](https://www.dicoding.com) (⭐️5/5 Project Review Rate).
-- 📜 [Fundamental Front-End Web Development](https://www.dicoding.com/certificates/2VX32REO4PYQ) from [Dicoding 🇮🇩](https://www.dicoding.com) (⭐️5/5 Project Review Rate).
+- 📜 [Dasar Pemrograman Web](https://www.dicoding.com/certificates/07Z6LN2KYPQR) from @dicodingacademy (⭐️4/5 Project Review Rate).
+- 📜 [Membuat Front-End Web untuk Pemula](https://www.dicoding.com/certificates/53XEWNQDVXRN) from @dicodingacademy (⭐️5/5 Project Review Rate).
+- 📜 [Fundamental Front-End Web Development](https://www.dicoding.com/certificates/2VX32REO4PYQ) from @dicodingacademy (⭐️5/5 Project Review Rate).
 
 <br>
 
