@@ -15,7 +15,7 @@ Hi! My name is Ala'. Thank You for taking the time to view my GitHub Profile ðŸ˜
 
 ### Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ubbadahala&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ubbadahala&layout=compact"/>
 </a>
 <br>
 
