@@ -11,6 +11,7 @@ Hi! My name is Ala'. Thank You for taking the time to view my GitHub Profile �
 - 📜 [Dasar Pemrograman Web](https://www.dicoding.com/certificates/07Z6LN2KYPQR) from [Dicoding 🇮🇩](https://www.dicoding.com) (⭐️4/5 Project Review Rate).
 - 📜 [Membuat Front-End Web untuk Pemula](https://www.dicoding.com/certificates/53XEWNQDVXRN) from [Dicoding 🇮🇩](https://www.dicoding.com) (⭐️5/5 Project Review Rate).
 - 📜 [Fundamental Front-End Web Development](https://www.dicoding.com/certificates/2VX32REO4PYQ) from [Dicoding 🇮🇩](https://www.dicoding.com) (⭐️5/5 Project Review Rate).
+- 📜 [Menjadi Front-End Web Developmr Expert](https://www.dicoding.com/certificates/MEPJLW944Z3V) from [Dicoding 🇮🇩](https://www.dicoding.com) (⭐️3.67/5 Average Project Review Rate).
 <br>
 
 ### Stuff I've worked on <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
