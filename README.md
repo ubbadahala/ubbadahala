@@ -8,6 +8,12 @@
 🔧 **Automation Engineer** at JB Cocoa  
 Working on PLC, HMI, SCADA development, and industrial process log digitalization. Experienced in system testing, FAT, and on-site commissioning.
 
+### Stuff I've worked on <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ubbadahala&layout=compact&theme=github_dark"/>
+</a>
+<br>
+
 ## 🛠️ Tech Stack & Tools
 - 💡 PLC Programming: Allen-Bradley Studio 5000, Siemens TIA Portal, Siemens STEP7  
 - 📊 SCADA/HMI: AVEVA System Platform, WinCC  
@@ -34,12 +40,6 @@ Working on PLC, HMI, SCADA development, and industrial process log digitalizatio
 ---
 
 Thanks for stopping by!
-
-### Stuff I've worked on <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ubbadahala&layout=compact&theme=github_dark"/>
-</a>
-<br>
 <!---
 ubbadahala/ubbadahala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
